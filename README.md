@@ -1,6 +1,6 @@
-## Hi guys! 👋
+## Hey there! 👋
 
-#### My name is Cristian, someone apassionate about the continuous learning about technology, sharing and acquired knowledge with mates.
+#### I'm someone apassionate about the continuous learning about technology, sharing and acquired knowledge with mates.
 
 - 🔭 I’m currently working on Software development for the logistics area 
 - 🌱 I’m currently learning Software architecture and IoT
